@@ -45,11 +45,11 @@ Top 5% FIFA 21 players are faster (higher acceleration & agility) than those in 
 
 View the full analysis with graphs and conclusions:
 
-👉 [**Download Full Report (PDF)**](./FIFA_Top5_Analysis.pdf)
+[👉 [**Download Full Report (PDF)**](./FIFA_Top5_Analysis.pdf)](https://github.com/roxanne007/Soccer-data-analysis-/blob/main/soccer%20data%20analysis/FIFA_Top5_Analysis.pdf)
 
 Or explore the live code here:
 
-🧪 [**View Notebook**](./FIFA_Top5_Analysis.ipynb)
+🧪 [[**View Notebook**](./FIFA_Top5_Analysis.ipynb)](https://github.com/roxanne007/Soccer-data-analysis-/blob/main/soccer%20data%20analysis/FIFA_Top5_Analysis.ipynb)
 
 ---
 
